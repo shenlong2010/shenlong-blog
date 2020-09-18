@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Super blog - misc</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2020-09-17T00:00:00-04:00</updated><entry><title>First Post on New Blog</title><link href="/first-post-on-new-blog.html" rel="alternate"></link><published>2020-09-17T00:00:00-04:00</published><updated>2020-09-17T00:00:00-04:00</updated><author><name>shenlong2010</name></author><id>tag:None,2020-09-17:/first-post-on-new-blog.html</id><content type="html">&lt;h1&gt;I love The Office&lt;/h1&gt;
+&lt;p&gt;This is my first post on my new blog. While not super informative it
+should convery my sense of humor with you, the reader!&lt;/p&gt;</content><category term="misc"></category></entry></feed>
